@@ -18,8 +18,7 @@ The detailed project report can be found (https://github.com/aysebsengul/Capston
 The model metrics file can be accessed (https://github.com/aysebsengul/Capstone_2_Water-Quality-Index/blob/77176ba9e30f3203ed059fd6d0449f0b18b3a46b/Model_metrics.txt).
 
 ## Recommendations
-Based on our findings, we recommend further research into feature engineering, exploring temporal and spatial patterns in water quality data, and investigating deep learning methods for improved predictions.
+Further research into feature engineering, exploration of temporal and spatial patterns in water quality data, and investigation of deep learning methods for improved predictions are recommended based on our findings.
 
 ## Conclusion
 This project demonstrates the potential of machine learning techniques in predicting water quality index and provides insights into enhancing water resource management strategies.
-![image](https://github.com/aysebsengul/Capstone_2_Water-Quality-Index/assets/143531090/718b1930-9db5-479f-991a-91b5a2e7529d)
