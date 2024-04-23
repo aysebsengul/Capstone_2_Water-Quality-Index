@@ -12,7 +12,7 @@ This project aims to develop an efficient method for predicting the water qualit
 6. **Model_metrics.txt**: This file summarizes the key parameters, hyperparameters, and performance metrics of the XGBoost Regression model used in the project.
 
 ## Project Report
-The detailed project report can be found (https://github.com/aysebsengul/Capstone_2_Water-Quality-Index/blob/77176ba9e30f3203ed059fd6d0449f0b18b3a46b/6_Capstone_Final_Report_WQI.pdf).
+The detailed project report can be found (https://github.com/aysebsengul/Capstone_2_Water-Quality-Index/blob/74c59e1022b95877dfb759f1adf406ff39a70ea8/6_Capstone_Final_Report_WQI.pdf).
 
 ## Model Metrics
 The model metrics file can be accessed (https://github.com/aysebsengul/Capstone_2_Water-Quality-Index/blob/77176ba9e30f3203ed059fd6d0449f0b18b3a46b/Model_metrics.txt).
