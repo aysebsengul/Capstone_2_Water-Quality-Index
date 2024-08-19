@@ -1,0 +1,30 @@
+
+Model Metrics:
+
+Final Model: XGBoost Regression
+
+Features:
+- Dissolved Oxygen
+- pH
+- Nitrite
+- Nitrate
+- Total Nitrogen
+- Total Phosphorus
+- Total Suspended Solids
+- Biological Oxygen Demand
+- Turbidity
+
+Parameters:
+- Number of Estimators: 300
+- Maximum Depth: 3
+- Learning Rate: 0.1
+
+Hyperparameters:
+- n_estimators: [100, 200, 300]
+- max_depth: [3, 5, 7]
+- learning_rate: [0.01, 0.05, 0.1]
+
+Performance Metrics:
+- R-squared (R2) Score: 0.962
+- Mean Squared Error (MSE): 8.469
+- Mean Absolute Error (MAE): 2.008
