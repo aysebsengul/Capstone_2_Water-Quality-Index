@@ -14,20 +14,21 @@ This repository contains the code and documentation for predicting water quality
 This project aims to develop an efficient method for predicting the water quality index (WQI), a single metric that encompasses both the Water Quality Classification (WQC) and the overall quality of water. The objective is to streamline the water quality assessment process, reducing the time and resources typically required for manual measurements. Utilizing regression learning techniques, including Linear Regression, Random Forest Regression, and XGBoosting Regression, enabled the prediction of WQI based on key parameters such as dissolved oxygen, nitrite, nitrate, total nitrogen, total phosphorus, total suspended solids, biological oxygen demand, and turbidity.
 
 ## Directory Structure
+```plaintext
 ├── Data/
 │   └── Water_Quality_Data.csv
 ├── Docs/
-│   ├── 1_Project_Proposal.pdf
+│   ├── 1_Project Proposal
 │   ├── 6_Capstone_Final_Report_WQI.pdf
 │   ├── 7_Capstone_Presentation_WQI.pdf
 │   └── 7_Capstone_Presentation_WQI.pptx
-├── Notebooks/
+├── Notebook/
 │   ├── 2_Data_wrangling.ipynb
 │   ├── 3_Exploratory_Data_Analysis.ipynb
 │   ├── 4_Preprocessing_and_Training_Data_Development.ipynb
 │   └── 5_Modeling.ipynb
 ├── Results/
-│   └── Model_metrics.txt
+│   ├── Model_metrics.txt
 └── README.md
 
 ## Data
